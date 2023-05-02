@@ -17,6 +17,7 @@ Moderate player plugin
  - 밴id 🟥
  - 시간제 밴 🟥
  - 90일 이후 경고 자동제거 🟥
+ - 언어 설정 🟥
 
 # 영어 / English
 A plugin I made to moderate player
@@ -34,3 +35,4 @@ Features: I'll make these features until release.
  - Ban ID 🟥
  - Period ban 🟥
  - Automatic unwarn after 90d 🟥
+ - Support two or more Language
