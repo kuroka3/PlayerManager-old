@@ -1,6 +1,6 @@
 # PlayerManager
 Moderate player plugin
-- ! This plugin uses Gradle !
+ ※ This plugin uses Gradle
 
 # 구현하고싶은 기능
  - 유저 밴/경고/뮤트 | 언밴/언경고(경고취소)/언뮤트
