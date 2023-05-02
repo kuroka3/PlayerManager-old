@@ -1,0 +1,2 @@
+# PlayerManager
+Moderate player plugin
