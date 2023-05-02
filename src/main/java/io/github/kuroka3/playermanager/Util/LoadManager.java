@@ -18,13 +18,13 @@ public class LoadManager {
     public static @Nullable HashMap<UUID, String> loadplayers() {
         try {
             File file = new File(PlayerManager.playersjson);
-            if(!file.createNewFile()) {
-                System.out.println("File create failed");
+            if(!file.isFile()) {
+                if (!file.createNewFile()) {
+                    System.out.println("File create failed");
+                }
             }
 
-            FileReader fileReader = null;
-
-            fileReader = new FileReader(file);
+            FileReader fileReader = new FileReader(file);
 
 
             Gson gson = new Gson();

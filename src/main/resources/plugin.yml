@@ -3,6 +3,18 @@ version: 1.0
 main: io.github.kuroka3.playermanager.PlayerManager
 api-version: 1.19
 
+permissions:
+  playermanager.moderate.ban:
+    default: false
+  playermanager.moderate.warn:
+    default: false
+  playermanager.moderate.kick:
+    default: false
+  playermanager.data.save:
+    description: "save-data"
+  playermanager.data.reload:
+    description: "reload-data"
+
 commands:
   save-data:
     description: "save players' data that contains nickname, ban, ban reason and warns"
