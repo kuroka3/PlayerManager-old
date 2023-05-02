@@ -35,4 +35,4 @@ Features: I'll make these features until release.
  - Ban ID 🟥
  - Period ban 🟥
  - Automatic unwarn after 90d 🟥
- - Support two or more Language
+ - Support two or more Language 🟥
