@@ -1,0 +1,16 @@
+name: PlayerManager
+version: 1.0
+main: io.github.kuroka3.playermanager.PlayerManager
+api-version: 1.19
+
+commands:
+  save-data:
+    description: "save players' data that contains nickname, ban, ban reason and warns"
+    usage: /save-data
+  reload-data:
+    description: "reload players' data that contains nickname, ban, ban reason and warns"
+    usage: /reload-data
+  moderate:
+    description: "test"
+  nowtime:
+    description: "test"
