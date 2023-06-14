@@ -6,6 +6,8 @@ Moderate player plugin
 
 독자적인 시스템을 사용합니다.
 
+⚠️ 이 플러그인은 더이상 관리되지 않습니다. 이후 버전은 https://github.com/kuroka3/PlayerManager2 를 참고해 주십시오. ⚠️
+
 ※ 이 플러그인은 Gradle을 사용합니다.
 
 ※ 이 플러그인에는 권한 시스템이 있습니다. 권한 관리를 위해 Luckperms등 다른 플러그인을 사용해 주십시오.
@@ -23,6 +25,8 @@ Moderate player plugin
 A plugin I made to moderate player
 
 uses own system.
+
+⚠️ This plugin is no longer maintained. Check https://github.com/kuroka3/PlayerManager2 for subsequent versions. ⚠️
 
 ※ This plugin uses Gradle.
 
